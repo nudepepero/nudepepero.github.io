@@ -9,10 +9,8 @@ image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.J
 ---
 호주 시드니에서의 생활
 
-I had stayed in Sydney, Australia for a year.
-It was perhaps the most unforgettable moment of my life. 
-
-<img src="./2.jpg", height="100x", width="100px">
+>I had stayed in Sydney, Australia for a year.
+>It was perhaps the most unforgettable moment of my life. 
 
 #Blockquotes
 >Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
