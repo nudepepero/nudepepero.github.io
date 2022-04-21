@@ -1,15 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Sydney"
+title:  "Mediator Features"
 date:   2022-04-21
 categories: blog
 tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
-#Mediator Formats and CSS features
+호주 시드니에서의 생활
 
-Examples for different formats and css features
+I had stayed in Sydney, Australia for a year.
+It was perhaps the most unforgettable moment of my life. 
 
 #Header Formats
 #Header1
