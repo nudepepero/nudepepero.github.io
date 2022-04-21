@@ -12,8 +12,10 @@ image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.J
 >I had stayed in Sydney, Australia for a year.
 >It was perhaps the most unforgettable moment of my life. 
 
-#Blockquotes
->Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
+고3 중요한 시기에 호주로 떠난 이유
+
+>때는 고등학교 2학년 제주특별자치도 교육청에서 진행하는 프로그램에 대해서 알게되었다. 특정 고등학교 학생들을 대상으로 진행하는 글로벌 인재양성 프로그램이였다. IELTS라는 국제공인영어시험에서 점수만 잘 받으면 무료로 시드니에 6개월 동안 보내준다는 것에 홀려 단숨에 호주행을 선택하게 되었다.
+
 
 #Lists
 ##orderd lists
