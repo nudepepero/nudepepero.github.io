@@ -12,9 +12,7 @@ image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.J
 I had stayed in Sydney, Australia for a year.
 It was perhaps the most unforgettable moment of my life. 
 
-#Header Formats
-#Header1
-##Header2
+<img src="./2.jpg", height="100x", width="100px">
 
 #Blockquotes
 >Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
