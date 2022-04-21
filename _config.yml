@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "ParkJungmin"
+title: "Park Jungmin"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   제주대학교 - 컴퓨터공학과
 
 email: jaydenpark9497@gmail.com
 #blog logo
