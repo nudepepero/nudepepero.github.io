@@ -9,8 +9,7 @@ image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.J
 ---
 호주 시드니에서의 생활
 
->I had stayed in Sydney, Australia for a year.
->It was perhaps the most unforgettable moment of my life. 
+>호주에서 1년동안 생활한 경험이 있다. 이 1년은 잊지못할 순간 중 하나이다. 
 
 고3 중요한 시기에 호주로 떠난 이유
 
