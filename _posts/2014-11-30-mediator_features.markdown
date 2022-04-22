@@ -15,7 +15,7 @@ image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.J
 
 >때는 고등학교 2학년, 제주특별자치도 교육청에서 진행하는 프로그램에 대해서 알게되었다. 특정 고등학교 학생들을 대상으로 진행하는 글로벌 인재양성 프로그램이였다. IELTS라는 국제공인 영어시험을 치뤄 점수만 잘 받으면 무료로 시드니에 6개월 동안 보내준다는 것에 홀려 단숨에 호주행을 선택하게 되었다.
 
-![Weekend](https://user-images.githubusercontent.com/81068669/164627248-0057271f-f10a-48e6-b0c6-826d0a71419d.jpg)
+![Friends](https://user-images.githubusercontent.com/81068669/164627248-0057271f-f10a-48e6-b0c6-826d0a71419d.jpg)
 
 #3 호주 생활 시작
 
