@@ -4,7 +4,7 @@ title:  "Introduce My Self"
 date:   2022-04-22
 categories: blog
 tags: featured
-image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
+image: /assets/article_images/2022-04-22-introduce/banner.jpg
 image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
 
@@ -23,13 +23,14 @@ image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.J
 # Fork
 저는 평소에 관심이 많은 이더리움 그리고 이더리움을 포크한 클레이튼의 오픈소스를 포크했습니다.
 
->https://github.com/nudepepero/klaytn
+>[https://github.com/nudepepero/klaytn](https://github.com/nudepepero/klaytn
+)
 
 카카오 자회사인 그라운드X의 클레이튼 암호화폐 오픈소스입니다
 
->https://github.com/nudepepero/go-ethereum
+>[https://github.com/nudepepero/go-ethereum](https://github.com/nudepepero/go-ethereum)
 
 이더리움 암호화폐의 오픈소스입니다.
 
 # Website
->https://nudepepero.github.io
+>[https://nudepepero.github.io](https://nudepepero.github.io)
